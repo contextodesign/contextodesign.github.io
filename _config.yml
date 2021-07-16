@@ -1,7 +1,8 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Contexto"
+email: contexto.me@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
+url: "https://contextodesign.github.io/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
