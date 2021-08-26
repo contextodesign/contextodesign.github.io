@@ -10,9 +10,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
+- title: YouTube 
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-red text-white px-3"
   external: true
 
 # Footer Menu
